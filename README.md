@@ -1,41 +1,35 @@
+# Alura Plus
 
-![CSS Grid](https://imgur.com/KfurviO.png)
+![Screenshots da página home da loja UseDev nas versões mobile e desktop](https://github.com/user-attachments/assets/df631818-1d53-4268-8b8f-f68d7242e408)
 
-# CSS Grid
+## ✨ O exercício
 
-Página inicial da loja UseDev.
+Exercício do curso <b>CSS Avançado</b> na <b>Alura</b>.
+
+Desenvolvimento da página Home da loja UseDev utilizando HTML e CSS.
+
+Para visualizar a página funcionando: 
+
+<a href="https://lucasjdantas.github.io/exercicio-alura-css-avancado-1/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" target="_blank"></a>
+
+<hr>
 
 ## 🔨 Funcionalidades do projeto
 
 A página mostrará um menu de navegação no cabeçalho, um banner de divulgação, lista de categorias e produtos, assim como uma seção de cadastro para a newsletter e um rodapé com links relacionados a aplicação.
 
-## ✔️ Técnicas e tecnologias utilizadas
+<hr>
 
-As técnicas e tecnologias utilizadas pra isso são:
+## 🚀 Tecnologias
 
-- `HTML`: Linguagem de marcação para criar páginas web.
-- `CSS`: Estiliza a apresentação das páginas web.
-  - `CSS Grid`: Sistema de layout bidimensional que facilita a criação de layouts complexos.
-    - `Grid Container`: Elemento que define um grid e contém os itens do grid.
-    - `Grid Items`: Elementos filhos do grid container, dispostos dentro do grid.
-    - `Grid Template Columns`: Define o número de colunas e suas larguras.
-    - `Grid Template Rows`: Define o número de linhas e suas alturas.
-    - `Grid Gap`: Espaçamento entre as colunas e linhas do grid.
-    - `Justify Content`: Alinhamento dos itens na direção horizontal.
-    - `Align Content`: Alinhamento dos itens na direção vertical.
-    - `Grid Areas`: Nomeação de áreas específicas do grid para layout personalizado.
+- Desenvolvimento e estruturação do código `HTML` alinhados às boas práticas para estilização no `CSS`.
+- Aplicação de `responsividade` à página: versão mobile (360px), versão tablet (768px) e versão desktop.
+- Utilização de `grid` para disposição dos elementos na página.
 
-## 📁 Acesso ao projeto
+<img loading="laz" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/monicahillman/3992-css-grid/tree/projeto-base) ou [baixá-lo](https://github.com/monicahillman/3992-css-grid/archive/refs/heads/projeto-base.zip).
+<img loading="lazy" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img loading="lazy" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-## 🛠️ Abrir e rodar o projeto
+<hr>
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
-
-* File > Open Folder (ou alguma opção similar)
-* Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-* Por fim clique em OK
-
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆
-
+*Imagens e conteúdo fornecidos pela Alura.*
